@@ -1,0 +1,5 @@
+some rooms have no light - evan
+	i will add new lights into the rooms that light doesn't reach
+better position lights to show blocked hallways. certain sections are too dark. - john
+	i will adjust the position of lights near blocked hallways, as well as their intensity. i will also add new lights to the places that light doesn't reach.
+	
